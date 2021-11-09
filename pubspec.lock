@@ -262,11 +262,13 @@ packages:
     source: hosted
     version: "0.6.3"
   json_ast:
-    dependency: transitive
+    dependency: "direct overridden"
     description:
-      name: json_ast
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "3769324381860c6129f3ddd8dd424e0bdb369d0f"
+      url: "https://github.com/DKConvista/json_ast"
+    source: git
     version: "1.0.5"
   matcher:
     dependency: transitive

@@ -25,6 +25,10 @@ dependencies:
     sdk: flutter
   collection: ^1.15.0
 
+dependency_overrides:
+  json_ast: 
+    git: https://github.com/DKConvista/json_ast
+
 dev_dependencies:
   pedantic: ^1.9.2
 
